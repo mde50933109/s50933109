@@ -19,9 +19,18 @@
 <v t="leo.20200818170041.1"><vh>reveal div</vh>
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
-<v t="leo.20200818170535.1"><vh>slide 2</vh></v>
-<v t="leo.20200818170636.1"><vh>slide3</vh>
-<v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
+<v t="leo.20200818170535.1"><vh>CPU</vh>
+<v t="leo.20210421144906.1"><vh>CPU-1</vh></v>
+<v t="leo.20210421145617.1"><vh>CPU-2</vh></v>
+<v t="leo.20210421150317.1"><vh>CPU-3</vh></v>
+<v t="leo.20210421165143.1"><vh>CPU-4</vh></v>
+<v t="leo.20210421170039.1"><vh>CPU-5</vh></v>
+<v t="leo.20210421170245.1"><vh>CPU-6</vh></v>
+<v t="leo.20210421172535.1"><vh>CPU-7</vh></v>
+<v t="leo.20210421172703.1"><vh>CPU-8</vh></v>
+</v>
+<v t="leo.20200818170636.1"><vh>RAM</vh>
+<v t="leo.20200818170909.1"><vh>RAM-1</vh></v>
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
 <v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
 </v>
@@ -208,23 +217,19 @@ vertical: body pane on the botton</t>
     @others
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
-    &lt;a href="https://revealjs.com"&gt;
-        &lt;img src="https://static.slid.es/reveal/logo-v1/reveal-white-text.svg" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
+    &lt;a href="https://wcmj2021g2.blogspot.com/"&gt;
+        &lt;img src="https://cpmarks.com/wp-content/uploads/2019/09/processor-2217771_640.jpg" alt="reveal.js logo" style="height: 350px; margin: 0 auto 4rem auto; background: transparent;" class="title-logo"&gt;
     &lt;/a&gt;
-    &lt;h3&gt;THE ELITE LU NETWORK&lt;/h3&gt;
+    &lt;h3&gt;電腦介紹&lt;/h3&gt;
     &lt;p&gt;
-        &lt;small&gt;Created by &lt;a href="https://50933109.github.io/content/index.html"&gt;Elite LU&lt;/a&gt;&lt;/small&gt;
+        &lt;small&gt;Created by&lt;a href="https://50933109.github.io/content/index.html"&gt;50933109&lt;/a&gt;、&lt;a href="https://50933102.github.io/content/index.html"&gt;50933102&lt;/a&gt;、&lt;a href="https://50933103.github.io/content/index.html"&gt;50933103&lt;/a&gt;、&lt;a href="https://50933104.github.io/content/index.html"&gt;50933104&lt;/a&gt;、&lt;a href="https://50933108.github.io/content/index.html"&gt;50933108&lt;/a&gt;、&lt;a href="https://50933123.github.io/content/index.html"&gt;50933123&lt;/a&gt;&lt;/small&gt;
     &lt;/p&gt;
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
-    &lt;h2&gt;Hello There&lt;/h2&gt;
-    &lt;p&gt;
-        reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.
-    &lt;/p&gt;
+    @others
 &lt;/section&gt;
-
 </t>
 <t tx="leo.20200818170636.1">&lt;!-- Example of nested vertical slides --&gt;
 &lt;section&gt;
@@ -241,27 +246,29 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
-    &lt;h2&gt;Vertical Slides&lt;/h2&gt;
-    &lt;p&gt;Slides can be nested inside of each other.&lt;/p&gt;
-    &lt;p&gt;Use the &lt;em&gt;Space&lt;/em&gt; key to navigate through all slides.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#" class="navigate-down"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
-    &lt;/a&gt;
+    &lt;h2&gt;Primary Memory(主記憶)&lt;/h2&gt;
+    &lt;p&gt;Random Access Memory(隨機存取存儲器)
+    &lt;/p&gt; Read-Only Memory(只讀存儲器)
+     
+   
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 1&lt;/h2&gt;
-    &lt;p&gt;Nested slides are useful for adding additional detail underneath a high level horizontal slide.&lt;/p&gt;
+    &lt;p&gt;隨機存取內存(RAM)&lt;/p&gt;
+    &lt;p&gt;隨機存取存儲器(RAM):是計算機中的一種存儲方案負責臨時存儲數據的系統，以便可以及時進行存儲在需要時由處理器訪問&lt;/p&gt;
+     &lt;p&gt; 這代表著一旦關閉存儲設備的電源，數據將被刪除&lt;/p&gt;
+     &lt;p&gt; RAM存儲隨機數據，處理器從RAM隨機訪問這些數據貯存&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
-    &lt;h2&gt;Basement Level 2&lt;/h2&gt;
-    &lt;p&gt;That's it, time to go back up.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;a href="#/2"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1); transform: rotate(180deg);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Up arrow"&gt;
-    &lt;/a&gt;
+    &lt;p&gt;只讀存儲器(ROM)&lt;/p&gt;
+    &lt;p&gt;ROM(只讀存儲器):ROM是一種永久性的存儲形式&lt;/p&gt;
+    &lt;p&gt; ROM停留不論打開或關閉電源都處於活動狀態&lt;/p&gt;
+    &lt;p&gt;ROM設備不允許修改存儲在其上的數據&lt;/p&gt;
+
+
+    
+   
 &lt;/section&gt;</t>
 <t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
     &lt;h2 data-id="code-title"&gt;Pretty Code&lt;/h2&gt;
@@ -647,6 +654,74 @@ console.log( '"customevent" has fired' );
         - &lt;a href="https://slides.com"&gt;Try the online editor&lt;/a&gt; &lt;br&gt;
         - &lt;a href="https://github.com/hakimel/reveal.js"&gt;Source code &amp;amp; documentation&lt;/a&gt;
     &lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210421144906.1">&lt;section&gt;
+    &lt;h2&gt;Central Processing Unit(CPU)&lt;/h2&gt;
+    &lt;p&gt;
+    是電腦的主要裝置之一，功能主要是解釋電腦指令以及處理電腦軟體中的資料。電腦的可程式化性主要是指對中央處理器的編程。
+    &lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210421145617.1">&lt;section&gt;
+      &lt;img src="https://image3.slideserve.com/5735605/slide2-l.jpg" alt="reveal.js logo" style="height: 350px; margin: 1 auto4rem auto; background: transparent;" class="demo-logo"&gt;
+      &lt;/p&gt;CPU由三個主要部分組成：
+     &lt;/p&gt; Arithmetic logic unit(算術邏輯單元)
+      &lt;/p&gt;Control Unit(控制單元)
+      &lt;/p&gt;Registers(暫存器)
+&lt;/section&gt;
+      
+      
+</t>
+<t tx="leo.20210421150317.1">&lt;section&gt;
+      &lt;h3&gt;Arithmetic logic unit(算術邏輯單元)&lt;/h3&gt;
+      
+&lt;/section&gt;
+      </t>
+<t tx="leo.20210421165143.1">&lt;section&gt;
+     &lt;p&gt;算術邏輯單元（ALU）：執行所有算術和邏輯運算&lt;/p&gt;
+     算術計算:例如加法，減法，乘法和除法&lt;/p&gt;邏輯運算:例如比較數字，字母或特殊字符&lt;/p&gt;
+
+
+&lt;/section&gt;
+</t>
+<t tx="leo.20210421170039.1">&lt;section&gt;
+     &lt;h3&gt;Control Unit(控制單元)&lt;/h3&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210421170245.1">&lt;section&gt;
+     &lt;p&gt;控制單元（CU）：控制和協調計算機組件
+     &lt;/p&gt;1.閱讀代碼以執行下一條指令
+     &lt;/p&gt;2.遞增程序計數器，使其指向下一條指令
+     &lt;/p&gt;3.從內存中的單元讀取指令需要的任何數據
+     E:/kmol2021_spring_v3(1)/kmol2021_spring_v3/data/tmp/w5/config/reveal.leo,&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;!-- Created by Leo: http://leoeditor.com/leo_toc.html --&gt;
+&lt;leo_file xmlns:leo="http://leoeditor.com/namespaces/leo-python-editor/1.1" &gt;
+&lt;leo_header file_format="2"/&gt;
+&lt;vnodes&gt;
+&lt;v t="leo.20210421170245.1"&gt;&lt;vh&gt;CPU-6&lt;/vh&gt;&lt;/v&gt;
+&lt;/vnodes&gt;
+&lt;tnodes&gt;
+&lt;t tx="leo.20210421170245.1"&gt;&amp;lt;section&amp;gt;
+     &amp;lt;p&amp;gt;控制單元（CU）：控制和協調計算機組件
+     &amp;lt;/p&amp;gt;1.閱讀代碼以執行下一條指令
+     &amp;lt;/p&amp;gt;2.遞增程序計數器，使其指向下一條指令
+     &amp;lt;/p&amp;gt;3.從內存中的單元讀取指令需要的任何數據
+     &amp;lt;/p&amp;gt;4.將必要的數據提供給ALU或寄存器
+     &amp;lt;/p&amp;gt;5.如果說明需要ALU或專用硬件來完成，請說明硬件執行請求的操作 &amp;lt;/p&amp;gt;
+
+
+&amp;lt;/section&amp;gt;&lt;/t&gt;
+&lt;/tnodes&gt;
+&lt;/leo_file&gt;
+&lt;/p&gt;4.將必要的數據提供給ALU或寄存器
+     &lt;/p&gt;5.如果說明需要ALU或專用硬件來完成，請說明硬件執行請求的操作 &lt;/p&gt;
+
+
+&lt;/section&gt;</t>
+<t tx="leo.20210421172535.1">&lt;section&gt;
+&lt;h3&gt;Registers(暫存器)&lt;/h3&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210421172703.1">&lt;section&gt;
+     &lt;p&gt;暫存器:存儲接下來要執行的數據，非常快速的存儲區域&lt;/p&gt;
+
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
