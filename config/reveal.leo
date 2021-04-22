@@ -66,6 +66,7 @@
 <v t="leo.20210423002626.1"><vh>機電整合</vh>
 <v t="leo.20210423002705.1"><vh>機電整合-1</vh></v>
 <v t="leo.20210423003138.1"><vh>機電整合-2</vh></v>
+<v t="leo.20210423012409.1"><vh>影片</vh></v>
 <v t="leo.20210423004519.1"><vh>機電整合-實例</vh></v>
 <v t="leo.20210423005327.1"><vh>新式機電整合</vh></v>
 </v>
@@ -223,8 +224,9 @@ vertical: body pane on the botton</t>
     &lt;a href="https://wcmj2021g2.blogspot.com/"&gt;
         &lt;img src="https://cpmarks.com/wp-content/uploads/2019/09/processor-2217771_640.jpg" alt="reveal.js logo" style="height: 350px; margin: 0 auto 4rem auto; background: transparent;" class="title-logo"&gt;
     &lt;/a&gt;
-    &lt;h3&gt;電腦介紹&lt;/h3&gt;
-    &lt;p&gt;
+    &lt;h3&gt;電腦概論&lt;/h3&gt;
+    &lt;p&gt;&lt;small&gt;第二組&lt;/small&gt;
+    
         &lt;small&gt;Created by&lt;a href="https://50933109.github.io/content/index.html"&gt;50933109&lt;/a&gt;、&lt;a href="https://50933102.github.io/content/index.html"&gt;50933102&lt;/a&gt;、&lt;a href="https://50933103.github.io/content/index.html"&gt;50933103&lt;/a&gt;、&lt;a href="https://50933104.github.io/content/index.html"&gt;50933104&lt;/a&gt;、&lt;a href="https://50933108.github.io/content/index.html"&gt;50933108&lt;/a&gt;、&lt;a href="https://50933123.github.io/content/index.html"&gt;50933123&lt;/a&gt;&lt;/small&gt;
     &lt;/p&gt;
 &lt;/section&gt;
@@ -493,22 +495,33 @@ vertical: body pane on the botton</t>
 
 
 &lt;/section&gt;</t>
-<t tx="leo.20210423004231.1">&lt;section&gt;
-      &lt;h2&gt;我們報告到此結束，謝謝大家&lt;/h2&gt;
+<t tx="leo.20210423004231.1">&lt;section data-background="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2020/10/30/1/8880372.jpg&amp;x=0&amp;y=0&amp;sw=0&amp;sh=0&amp;sl=W&amp;fw=1050"&gt;&lt;/a&gt;
+      &lt;h2&gt;THE END&lt;/h2&gt;
+       謝謝各位
 
 &lt;/section&gt;</t>
 <t tx="leo.20210423004519.1">&lt;section&gt;
+    
      &lt;h2&gt;傳統機電整合&lt;/h2&gt;
      常見之機電整合多為用電腦輸入數值後交由機器值行，期間尚需要測試、校調，且必需仰賴專業人員與設備，不利於第一線操作人員執行修改或變更數據。
 
 
 &lt;/section&gt;</t>
 <t tx="leo.20210423005327.1">&lt;section&gt;
+     
+     &lt;a href="https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Fchinese.engadget.com%2Frobosen-robotics-optimus-prime-collectible-hasbro-020051050.html&amp;psig=AOvVaw1FgVmQqoCVr36-bpovRHsb&amp;ust=1619198873194000&amp;source=images&amp;cd=vfe&amp;ved=0CAIQjRxqFwoTCOj6woGwkvACFQAAAAAdAAAAABAQ"&gt;
+        &lt;img src="https://s.yimg.com/os/creatr-uploaded-images/2021-04/f82f3360-996d-11eb-afef-bece99d6a77d" alt="reveal.js logo" style="height: 250px; margin: 0 auto 4rem auto; background: transparent;" class="title-logo"&gt;
+    &lt;/a&gt;
      &lt;h2&gt;新一代機電整合之概念&lt;/h2&gt;
      新式整合為增加可由機械本身透過第一線人員直接操作機械使其產生可實用、不需多次校調試驗、不需專業人員乃至返回原廠設定等不利於快速作業因素，將數值直接新增保存。
 
 
 
+
+&lt;/section&gt;</t>
+<t tx="leo.20210423012409.1">&lt;section&gt;
+      &lt;a href="https://www.youtube.com/watch?v=TEz0pP36mEQ"&gt;
+       &lt;iframe width="600" height="400" src="https://www.youtube.com/embed/TEz0pP36mEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/a&gt;
 
 &lt;/section&gt;</t>
 </tnodes>
