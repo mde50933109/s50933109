@@ -19,6 +19,7 @@
 <v t="leo.20200818170041.1"><vh>reveal div</vh>
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
+<v t="leo.20210422163603.1"><vh>WHAT COM</vh></v>
 <v t="leo.20200818170535.1"><vh>CPU</vh>
 <v t="leo.20210421144906.1"><vh>CPU-1</vh></v>
 <v t="leo.20210421145617.1"><vh>CPU-2</vh></v>
@@ -34,43 +35,34 @@
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
 <v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
 </v>
-<v t="leo.20200818170725.1"><vh>slide 4</vh></v>
-<v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
-<v t="leo.20200818171215.1"><vh>slide 6</vh></v>
-<v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
-<v t="leo.20200818171312.1"><vh>slide 8</vh></v>
-<v t="leo.20200818171344.1"><vh>slide 9</vh></v>
-<v t="leo.20200818171412.1"><vh>slide 10</vh></v>
-<v t="leo.20200818194721.1"><vh>slide 11</vh></v>
-<v t="leo.20200818194751.1"><vh>slide 12</vh></v>
-<v t="leo.20200818194812.1"><vh>slide 13</vh>
-<v t="leo.20200818194908.1"><vh>slide 13-1</vh></v>
-<v t="leo.20200818194933.1"><vh>slide 13-2</vh></v>
+<v t="leo.20210422172744.1"><vh>二級記憶體</vh>
+<v t="leo.20210422174519.1"><vh>二級記憶體</vh></v>
+<v t="leo.20210422172811.1"><vh>hd</vh></v>
+<v t="leo.20210422180518.1"><vh>固態</vh></v>
 </v>
-<v t="leo.20200818194840.1"><vh>slide 14</vh></v>
-<v t="leo.20200818195039.1"><vh>slide 15</vh></v>
-<v t="leo.20200818195105.1"><vh>slide 16</vh>
-<v t="leo.20200818195213.1"><vh>slide 16-1</vh></v>
-<v t="leo.20200818195237.1"><vh>slide 16-2</vh></v>
-<v t="leo.20200818195305.1"><vh>slide 16-3</vh></v>
-<v t="leo.20200818195323.1"><vh>slide 16-4</vh></v>
-<v t="leo.20200818195339.1"><vh>slide 16-5</vh></v>
+<v t="leo.20200818170725.1"><vh>MB</vh>
+<v t="leo.20210422165510.1"><vh>MB-1</vh></v>
+<v t="leo.20210422165641.1"><vh>MB-2</vh></v>
 </v>
-<v t="leo.20200818195147.1"><vh>slide 17</vh></v>
-<v t="leo.20200818195403.1"><vh>slide 18</vh></v>
-<v t="leo.20200818195426.1"><vh>slide 19</vh></v>
-<v t="leo.20200818195445.1"><vh>slide 20</vh></v>
-<v t="leo.20200818195502.1"><vh>slide 21</vh></v>
-<v t="leo.20200818195520.1"><vh>slide 22</vh></v>
-<v t="leo.20200818195541.1"><vh>slide 23</vh></v>
-<v t="leo.20200818195604.1"><vh>slide 24</vh></v>
-<v t="leo.20200818195625.1"><vh>slide 25</vh></v>
-<v t="leo.20200818195643.1"><vh>slide 26</vh></v>
-<v t="leo.20200818195701.1"><vh>slide 27</vh></v>
-<v t="leo.20200818195715.1"><vh>slide 28</vh></v>
-<v t="leo.20200818195731.1"><vh>slide 29</vh></v>
-<v t="leo.20200818195748.1"><vh>slide 30</vh></v>
-<v t="leo.20200818195800.1"><vh>slide 31</vh></v>
+<v t="leo.20210422165911.1"><vh>GPU</vh>
+<v t="leo.20210422170010.1"><vh>GPU-1</vh></v>
+<v t="leo.20210422170738.1"><vh>GPU-2</vh></v>
+<v t="leo.20210422171119.1"><vh>GPU-3</vh></v>
+</v>
+<v t="leo.20210422180130.1"><vh>網際網路</vh>
+<v t="leo.20210422180430.1"><vh>網際網路</vh></v>
+<v t="leo.20210422182521.1"><vh>起源</vh></v>
+<v t="leo.20210422183949.1"><vh>應用</vh></v>
+<v t="leo.20210422185037.1"><vh>全球資訊</vh></v>
+<v t="leo.20210422184825.1"><vh>超文</vh></v>
+<v t="leo.20210422185048.1"><vh>電子郵件</vh></v>
+<v t="leo.20210422185217.1"><vh>電話</vh></v>
+<v t="leo.20210422185226.1"><vh>檔案分享</vh></v>
+</v>
+<v t="leo.20210422192338.1"><vh>作業</vh>
+<v t="leo.20210422192501.1"><vh>作業</vh></v>
+<v t="leo.20210422193435.1"><vh>多樣</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -236,14 +228,11 @@ vertical: body pane on the botton</t>
     @others
 &lt;/section&gt;
 
+
 </t>
 <t tx="leo.20200818170725.1">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
-    &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
-    &lt;/p&gt;
+    @others
 &lt;/section&gt;
-
 </t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
     &lt;h2&gt;Primary Memory(主記憶)&lt;/h2&gt;
@@ -269,391 +258,6 @@ vertical: body pane on the botton</t>
 
     
    
-&lt;/section&gt;</t>
-<t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
-    &lt;h2 data-id="code-title"&gt;Pretty Code&lt;/h2&gt;
-    &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers&gt;
-        import React, { useState } from 'react';
-
-        function Example() {
-          const [count, setCount] = useState(0);
-
-          return (
-            ...
-          );
-        }
-    &lt;/code&gt;&lt;/pre&gt;
-    &lt;p&gt;Code syntax highlighting courtesy of &lt;a href="https://highlightjs.org/usage/"&gt;highlight.js&lt;/a&gt;.&lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818171215.1">&lt;section data-auto-animate&gt;
-    &lt;h2 data-id="code-title"&gt;With animations&lt;/h2&gt;
-    &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers="|4,8-11|17|22-24"&gt;
-        import React, { useState } from 'react';
-
-        function Example() {
-          const [count, setCount] = useState(0);
-
-          return (
-            &amp;lt;div&amp;gt;
-              &amp;lt;p&amp;gt;You clicked {count} times&amp;lt;/p&amp;gt;
-              &amp;lt;button onClick={() =&amp;gt; setCount(count + 1)}&amp;gt;
-                Click me
-              &amp;lt;/button&amp;gt;
-            &amp;lt;/div&amp;gt;
-          );
-        }
-
-        function SecondExample() {
-          const [count, setCount] = useState(0);
-
-          return (
-            &amp;lt;div&amp;gt;
-              &amp;lt;p&amp;gt;You clicked {count} times&amp;lt;/p&amp;gt;
-              &amp;lt;button onClick={() =&amp;gt; setCount(count + 1)}&amp;gt;
-                Click me
-              &amp;lt;/button&amp;gt;
-            &amp;lt;/div&amp;gt;
-          );
-        }
-    &lt;/code&gt;&lt;/pre&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818171244.1">&lt;section&gt;
-    &lt;h2&gt;Point of View&lt;/h2&gt;
-    &lt;p&gt;
-        Press &lt;strong&gt;ESC&lt;/strong&gt; to enter the slide overview.
-    &lt;/p&gt;
-    &lt;p&gt;
-        Hold down the &lt;strong&gt;alt&lt;/strong&gt; key (&lt;strong&gt;ctrl&lt;/strong&gt; in Linux) and click on any element to zoom towards it using &lt;a href="http://lab.hakim.se/zoom-js"&gt;zoom.js&lt;/a&gt;. Click again to zoom back out.
-    &lt;/p&gt;
-    &lt;p&gt;
-        (NOTE: Use ctrl + click in Linux.)
-    &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818171312.1">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
-    &lt;h2&gt;Auto-Animate&lt;/h2&gt;
-    &lt;p&gt;Automatically animate matching elements across slides with &lt;a href="https://revealjs.com/auto-animate/"&gt;Auto-Animate&lt;/a&gt;.&lt;/p&gt;
-    &lt;div class="r-hstack justify-center"&gt;
-        &lt;div data-id="box1" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box2" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box3" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818171344.1">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
-    &lt;div class="r-hstack justify-center"&gt;
-        &lt;div data-id="box1" data-auto-animate-delay="0" style="background: cyan; width: 150px; height: 100px; margin: 10px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box2" data-auto-animate-delay="0.1" style="background: magenta; width: 150px; height: 100px; margin: 10px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box3" data-auto-animate-delay="0.2" style="background: yellow; width: 150px; height: 100px; margin: 10px;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;h2 style="margin-top: 20px;"&gt;Auto-Animate&lt;/h2&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818171412.1">&lt;section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)"&gt;
-    &lt;div class="r-stack"&gt;
-        &lt;div data-id="box1" style="background: cyan; width: 300px; height: 300px; border-radius: 200px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box2" style="background: magenta; width: 200px; height: 200px; border-radius: 200px;"&gt;&lt;/div&gt;
-        &lt;div data-id="box3" style="background: yellow; width: 100px; height: 100px; border-radius: 200px;"&gt;&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;h2 style="margin-top: 20px;"&gt;Auto-Animate&lt;/h2&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818194721.1">&lt;section&gt;
-    &lt;h2&gt;Touch Optimized&lt;/h2&gt;
-    &lt;p&gt;
-        Presentations look great on touch devices, like mobile phones and tablets. Simply swipe through your slides.
-    &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818194751.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-        ## Markdown support
-
-        Write content using inline or external Markdown.
-        Instructions and more info available in the [readme](https://revealjs.com/markdown/).
-
-        ```[]
-        &lt;section data-markdown&gt;
-          ## Markdown support
-
-          Write content using inline or external Markdown.
-          Instructions and more info available in the [readme](https://revealjs.com/markdown/).
-        &lt;/section&gt;
-        ```
-    &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818194812.1">&lt;section&gt;
-     @others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818194840.1">&lt;section id="transitions"&gt;
-    &lt;h2&gt;Transition Styles&lt;/h2&gt;
-    &lt;p&gt;
-        You can select from different transitions, like: &lt;br&gt;
-        &lt;a href="?transition=none#/transitions"&gt;None&lt;/a&gt; -
-        &lt;a href="?transition=fade#/transitions"&gt;Fade&lt;/a&gt; -
-        &lt;a href="?transition=slide#/transitions"&gt;Slide&lt;/a&gt; -
-        &lt;a href="?transition=convex#/transitions"&gt;Convex&lt;/a&gt; -
-        &lt;a href="?transition=concave#/transitions"&gt;Concave&lt;/a&gt; -
-        &lt;a href="?transition=zoom#/transitions"&gt;Zoom&lt;/a&gt;
-    &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818194908.1">&lt;section id="fragments"&gt;
-    &lt;h2&gt;Fragments&lt;/h2&gt;
-    &lt;p&gt;Hit the next arrow...&lt;/p&gt;
-    &lt;p class="fragment"&gt;... to step through ...&lt;/p&gt;
-    &lt;p&gt;&lt;span class="fragment"&gt;... a&lt;/span&gt; &lt;span class="fragment"&gt;fragmented&lt;/span&gt; &lt;span class="fragment"&gt;slide.&lt;/span&gt;&lt;/p&gt;
-
-    &lt;aside class="notes"&gt;
-        This slide has fragments which are also stepped through in the notes window.
-    &lt;/aside&gt;
-&lt;/section&gt;
- </t>
-<t tx="leo.20200818194933.1">&lt;section&gt;
-    &lt;h2&gt;Fragment Styles&lt;/h2&gt;
-    &lt;p&gt;There's different types of fragments, like:&lt;/p&gt;
-    &lt;p class="fragment grow"&gt;grow&lt;/p&gt;
-    &lt;p class="fragment shrink"&gt;shrink&lt;/p&gt;
-    &lt;p class="fragment fade-out"&gt;fade-out&lt;/p&gt;
-    &lt;p&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-right"&gt;fade-right, &lt;/span&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-up"&gt;up, &lt;/span&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-down"&gt;down, &lt;/span&gt;
-        &lt;span style="display: inline-block;" class="fragment fade-left"&gt;left&lt;/span&gt;
-    &lt;/p&gt;
-    &lt;p class="fragment fade-in-then-out"&gt;fade-in-then-out&lt;/p&gt;
-    &lt;p class="fragment fade-in-then-semi-out"&gt;fade-in-then-semi-out&lt;/p&gt;
-    &lt;p&gt;Highlight &lt;span class="fragment highlight-red"&gt;red&lt;/span&gt; &lt;span class="fragment highlight-blue"&gt;blue&lt;/span&gt; &lt;span class="fragment highlight-green"&gt;green&lt;/span&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20200818195039.1">&lt;section id="themes"&gt;
-    &lt;h2&gt;Themes&lt;/h2&gt;
-    &lt;p&gt;
-        reveal.js comes with a few themes built in: &lt;br&gt;
-        &lt;!-- Hacks to swap themes after the page has loaded. Not flexible and only intended for the reveal.js demo deck. --&gt;
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/black.css'); return false;"&gt;Black (default)&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/white.css'); return false;"&gt;White&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/league.css'); return false;"&gt;League&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/sky.css'); return false;"&gt;Sky&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/beige.css'); return false;"&gt;Beige&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/simple.css'); return false;"&gt;Simple&lt;/a&gt; &lt;br&gt;
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/serif.css'); return false;"&gt;Serif&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/blood.css'); return false;"&gt;Blood&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/night.css'); return false;"&gt;Night&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/moon.css'); return false;"&gt;Moon&lt;/a&gt; -
-        &lt;a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/solarized.css'); return false;"&gt;Solarized&lt;/a&gt;
-    &lt;/p&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818195105.1">&lt;section&gt;
-    @others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818195147.1">&lt;section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom"&gt;
-    &lt;h2&gt;Background Transitions&lt;/h2&gt;
-    &lt;p&gt;
-        Different background transitions are available via the backgroundTransition option. This one's called "zoom".
-    &lt;/p&gt;
-    &lt;pre&gt;&lt;code class="hljs javascript"&gt;Reveal.configure({ backgroundTransition: 'zoom' })&lt;/code&gt;&lt;/pre&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818195213.1">&lt;section data-background="#dddddd"&gt;
-    &lt;h2&gt;Slide Backgrounds&lt;/h2&gt;
-    &lt;p&gt;
-        Set &lt;code&gt;data-background="#dddddd"&lt;/code&gt; on a slide to change the background color. All CSS color formats are supported.
-    &lt;/p&gt;
-    &lt;a href="#" class="navigate-down"&gt;
-        &lt;img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow"&gt;
-    &lt;/a&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818195237.1">&lt;section data-background="https://static.slid.es/reveal/image-placeholder.png"&gt;
-    &lt;h2&gt;Image Backgrounds&lt;/h2&gt;
-    &lt;pre&gt;&lt;code class="hljs html"&gt;&amp;lt;section data-background="image.png"&amp;gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818195305.1">&lt;section data-background="https://static.slid.es/reveal/image-placeholder.png" data-background-repeat="repeat" data-background-size="100px"&gt;
-    &lt;h2&gt;Tiled Backgrounds&lt;/h2&gt;
-    &lt;pre&gt;&lt;code class="hljs html" style="word-wrap: break-word;"&gt;&amp;lt;section data-background="image.png" data-background-repeat="repeat" data-background-size="100px"&amp;gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818195323.1">&lt;section data-background-video="https://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.mp4" data-background-color="#000000"&gt;
-    &lt;div style="background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px;"&gt;
-        &lt;h2&gt;Video Backgrounds&lt;/h2&gt;
-        &lt;pre&gt;&lt;code class="hljs html" style="word-wrap: break-word;"&gt;&amp;lt;section data-background-video="video.mp4,video.webm"&amp;gt;&lt;/code&gt;&lt;/pre&gt;
-    &lt;/div&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818195339.1">&lt;section data-background="http://i.giphy.com/90F8aUepslB84.gif"&gt;
-    &lt;h2&gt;... and GIFs!&lt;/h2&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20200818195403.1">&lt;section data-transition="slide" data-background="#b5533c" data-background-transition="zoom"&gt;
-    &lt;h2&gt;Background Transitions&lt;/h2&gt;
-    &lt;p&gt;
-        You can override background transitions per-slide.
-    &lt;/p&gt;
-    &lt;pre&gt;&lt;code class="hljs html" style="word-wrap: break-word;"&gt;&amp;lt;section data-background-transition="zoom"&amp;gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818195426.1">&lt;section data-background-iframe="https://hakim.se" data-background-interactive&gt;
-    &lt;div style="position: absolute; width: 40%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left;"&gt;
-        &lt;h2&gt;Iframe Backgrounds&lt;/h2&gt;
-        &lt;p&gt;Since reveal.js runs on the web, you can easily embed other web content. Try interacting with the page in the background.&lt;/p&gt;
-    &lt;/div&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818195445.1">&lt;section&gt;
-    &lt;h2&gt;Marvelous List&lt;/h2&gt;
-    &lt;ul&gt;
-        &lt;li&gt;No order here&lt;/li&gt;
-        &lt;li&gt;Or here&lt;/li&gt;
-        &lt;li&gt;Or here&lt;/li&gt;
-        &lt;li&gt;Or here&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818195502.1">&lt;section&gt;
-    &lt;h2&gt;Fantastic Ordered List&lt;/h2&gt;
-    &lt;ol&gt;
-        &lt;li&gt;One is smaller than...&lt;/li&gt;
-        &lt;li&gt;Two is smaller than...&lt;/li&gt;
-        &lt;li&gt;Three!&lt;/li&gt;
-    &lt;/ol&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818195520.1">&lt;section&gt;
-    &lt;h2&gt;Tabular Tables&lt;/h2&gt;
-    &lt;table&gt;
-        &lt;thead&gt;
-            &lt;tr&gt;
-                &lt;th&gt;Item&lt;/th&gt;
-                &lt;th&gt;Value&lt;/th&gt;
-                &lt;th&gt;Quantity&lt;/th&gt;
-            &lt;/tr&gt;
-        &lt;/thead&gt;
-        &lt;tbody&gt;
-            &lt;tr&gt;
-                &lt;td&gt;Apples&lt;/td&gt;
-                &lt;td&gt;$1&lt;/td&gt;
-                &lt;td&gt;7&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-                &lt;td&gt;Lemonade&lt;/td&gt;
-                &lt;td&gt;$2&lt;/td&gt;
-                &lt;td&gt;18&lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-                &lt;td&gt;Bread&lt;/td&gt;
-                &lt;td&gt;$3&lt;/td&gt;
-                &lt;td&gt;2&lt;/td&gt;
-            &lt;/tr&gt;
-        &lt;/tbody&gt;
-    &lt;/table&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818195541.1">&lt;section&gt;
-    &lt;h2&gt;Clever Quotes&lt;/h2&gt;
-    &lt;p&gt;
-        These guys come in two forms, inline: &lt;q cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations"&gt;The nice thing about standards is that there are so many to choose from&lt;/q&gt; and block:
-    &lt;/p&gt;
-    &lt;blockquote cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations"&gt;
-        &amp;ldquo;For years there has been a theory that millions of monkeys typing at random on millions of typewriters would
-        reproduce the entire works of Shakespeare. The Internet has proven this theory to be untrue.&amp;rdquo;
-    &lt;/blockquote&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818195604.1">&lt;section&gt;
-    &lt;h2&gt;Intergalactic Interconnections&lt;/h2&gt;
-    &lt;p&gt;
-        You can link between slides internally,
-        &lt;a href="#/2/3"&gt;like this&lt;/a&gt;.
-    &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818195625.1">&lt;section&gt;
-    &lt;h2&gt;Speaker View&lt;/h2&gt;
-    &lt;p&gt;There's a &lt;a href="https://revealjs.com/speaker-view/"&gt;speaker view&lt;/a&gt;. It includes a timer, preview of the upcoming slide as well as your speaker notes.&lt;/p&gt;
-    &lt;p&gt;Press the &lt;em&gt;S&lt;/em&gt; key to try it out.&lt;/p&gt;
-
-    &lt;aside class="notes"&gt;
-        Oh hey, these are some notes. They'll be hidden in your presentation, but you can see them if you open the speaker notes window (hit 's' on your keyboard).
-    &lt;/aside&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818195643.1">&lt;section&gt;
-    &lt;h2&gt;Export to PDF&lt;/h2&gt;
-    &lt;p&gt;Presentations can be &lt;a href="https://revealjs.com/pdf-export/"&gt;exported to PDF&lt;/a&gt;, here's an example:&lt;/p&gt;
-    &lt;iframe data-src="https://www.slideshare.net/slideshow/embed_code/42840540" width="445" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818195701.1">&lt;section&gt;
-    &lt;h2&gt;Global State&lt;/h2&gt;
-    &lt;p&gt;
-        Set &lt;code&gt;data-state="something"&lt;/code&gt; on a slide and &lt;code&gt;"something"&lt;/code&gt;
-        will be added as a class to the document element when the slide is open. This lets you
-        apply broader style changes, like switching the page background.
-    &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818195715.1">&lt;section data-state="customevent"&gt;
-    &lt;h2&gt;State Events&lt;/h2&gt;
-    &lt;p&gt;
-        Additionally custom events can be triggered on a per slide basis by binding to the &lt;code&gt;data-state&lt;/code&gt; name.
-    &lt;/p&gt;
-    &lt;pre&gt;&lt;code class="javascript" data-trim contenteditable style="font-size: 18px;"&gt;
-Reveal.on( 'customevent', function() {
-console.log( '"customevent" has fired' );
-} );
-    &lt;/code&gt;&lt;/pre&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818195731.1">&lt;section&gt;
-    &lt;h2&gt;Take a Moment&lt;/h2&gt;
-    &lt;p&gt;
-        Press B or . on your keyboard to pause the presentation. This is helpful when you're on stage and want to take distracting slides off the screen.
-    &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818195748.1">&lt;section&gt;
-    &lt;h2&gt;Much more&lt;/h2&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Right-to-left support&lt;/li&gt;
-        &lt;li&gt;&lt;a href="https://revealjs.com/api/"&gt;Extensive JavaScript API&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href="https://revealjs.com/auto-slide/"&gt;Auto-progression&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href="https://revealjs.com/backgrounds/#parallax-background"&gt;Parallax backgrounds&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href="https://revealjs.com/keyboard/"&gt;Custom keyboard bindings&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818195800.1">&lt;section style="text-align: left;"&gt;
-    &lt;h1&gt;THE END&lt;/h1&gt;
-    &lt;p&gt;
-        - &lt;a href="https://slides.com"&gt;Try the online editor&lt;/a&gt; &lt;br&gt;
-        - &lt;a href="https://github.com/hakimel/reveal.js"&gt;Source code &amp;amp; documentation&lt;/a&gt;
-    &lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210421144906.1">&lt;section&gt;
     &lt;h2&gt;Central Processing Unit(CPU)&lt;/h2&gt;
@@ -691,26 +295,6 @@ console.log( '"customevent" has fired' );
      &lt;/p&gt;1.閱讀代碼以執行下一條指令
      &lt;/p&gt;2.遞增程序計數器，使其指向下一條指令
      &lt;/p&gt;3.從內存中的單元讀取指令需要的任何數據
-     E:/kmol2021_spring_v3(1)/kmol2021_spring_v3/data/tmp/w5/config/reveal.leo,&lt;?xml version="1.0" encoding="utf-8"?&gt;
-&lt;!-- Created by Leo: http://leoeditor.com/leo_toc.html --&gt;
-&lt;leo_file xmlns:leo="http://leoeditor.com/namespaces/leo-python-editor/1.1" &gt;
-&lt;leo_header file_format="2"/&gt;
-&lt;vnodes&gt;
-&lt;v t="leo.20210421170245.1"&gt;&lt;vh&gt;CPU-6&lt;/vh&gt;&lt;/v&gt;
-&lt;/vnodes&gt;
-&lt;tnodes&gt;
-&lt;t tx="leo.20210421170245.1"&gt;&amp;lt;section&amp;gt;
-     &amp;lt;p&amp;gt;控制單元（CU）：控制和協調計算機組件
-     &amp;lt;/p&amp;gt;1.閱讀代碼以執行下一條指令
-     &amp;lt;/p&amp;gt;2.遞增程序計數器，使其指向下一條指令
-     &amp;lt;/p&amp;gt;3.從內存中的單元讀取指令需要的任何數據
-     &amp;lt;/p&amp;gt;4.將必要的數據提供給ALU或寄存器
-     &amp;lt;/p&amp;gt;5.如果說明需要ALU或專用硬件來完成，請說明硬件執行請求的操作 &amp;lt;/p&amp;gt;
-
-
-&amp;lt;/section&amp;gt;&lt;/t&gt;
-&lt;/tnodes&gt;
-&lt;/leo_file&gt;
 &lt;/p&gt;4.將必要的數據提供給ALU或寄存器
      &lt;/p&gt;5.如果說明需要ALU或專用硬件來完成，請說明硬件執行請求的操作 &lt;/p&gt;
 
@@ -723,5 +307,144 @@ console.log( '"customevent" has fired' );
      &lt;p&gt;暫存器:存儲接下來要執行的數據，非常快速的存儲區域&lt;/p&gt;
 
 &lt;/section&gt;</t>
+<t tx="leo.20210422163603.1">&lt;section&gt;
+     &lt;h3&gt;何為電腦?&lt;/h3&gt;
+     電腦是一種電子設備，在指令的控制下進行操作可以接受數據（輸入）在內存中，根據指定的條件處理數據規則，產生信息（輸出）並存儲信息以備將來使用&lt;/p&gt;
+     
+
+     
+     
+
+
+
+&lt;/section&gt;</t>
+<t tx="leo.20210422165510.1">&lt;section&gt;
+    &lt;h2&gt;Motherboard(主機板)&lt;/h2&gt;
+    &lt;p&gt;是構成複雜電子系統例如電子計算機的中心或者主電路板。&lt;/p&gt;
+    
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20210422165641.1">&lt;section&gt;
+     &lt;/a&gt;典型的主機板能提供一系列接合點，供處理器、顯示卡、硬碟機、記憶體、對外裝置等裝置接合。它們通常直接插入有關插槽，或用線路連接，主機板上最重要的構成元件是晶片組。&lt;/a&gt;
+
+&lt;/section&gt;</t>
+<t tx="leo.20210422165911.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+</t>
+<t tx="leo.20210422170010.1">&lt;section&gt;
+     &lt;h2&gt;Video card(顯示卡)&lt;/h2&gt;
+     &lt;p&gt;是個人電腦最基本組成部分之一，用途是將電腦系統所需要的顯示資訊進行轉換驅動電腦，並提供逐行或隔行掃描訊號，控制電腦的正確顯示，是連接顯示器和個人電腦主機板的重要元件，是「人機對話」的重要裝置之一&lt;/p&gt;
+
+
+
+&lt;/section&gt;</t>
+<t tx="leo.20210422170738.1">&lt;section&gt;
+     &lt;h2&gt;Graphics Processing Unit(圖形處理器)&lt;/h2&gt;
+     &lt;p&gt;是一種專門在個人電腦、工作站、遊戲機和一些行動裝置（如平板電腦、智慧型手機等）上執行繪圖運算工作的微處理器。&lt;/p&gt;
+     
+     
+
+
+
+
+&lt;/section&gt;</t>
+<t tx="leo.20210422171119.1">&lt;section&gt;
+     &lt;p&gt;圖形處理器
+     &lt;/p&gt;圖形處理器使顯示卡減少對CPU的依賴，並分擔部分原本是由CPU所擔當的工作，尤其是在進行三維繪圖運算時，功效更加明顯。&lt;/p&gt;
+     
+
+
+
+
+&lt;/section&gt;</t>
+<t tx="leo.20210422172744.1">
+&lt;section&gt;
+    @others
+&lt;/section&gt;</t>
+<t tx="leo.20210422172811.1">&lt;section&gt; 
+    &lt;p&gt;硬碟(HDD)&lt;/p&gt;
+    &lt;p&gt;是電腦上使用堅硬的旋轉碟片為基礎&lt;/p&gt;
+    &lt;p&gt;原理是磁頭經過碟片的上方時碟片本身的磁場導致讀取線圈中電氣訊號改變&lt;/p&gt;
+    &lt;p&gt;硬碟的讀寫是採用半隨機存取的方式，可以以任意順序讀取硬碟中的資料，但讀取不同位置的資料速度不相同&lt;/p&gt;
+    &lt;p&gt;硬碟包括一至數片高速轉動的碟片以及放在致動器懸臂上的磁頭&lt;/p&gt;
+&lt;/p&gt;
+    &lt;/section&gt;</t>
+<t tx="leo.20210422174519.1">&lt;section&gt; 
+     &lt;h3&gt;Secondary Memory(二級記憶體)&lt;/h3&gt;
+     &lt;p&gt;Hard Disk Drive(硬碟)
+     &lt;/p&gt;Solid-state drive(固態硬碟)
+&lt;/section&gt;
+     </t>
+<t tx="leo.20210422180130.1">&lt;section&gt;
+     @others
+&lt;/section&gt;  </t>
+<t tx="leo.20210422180430.1">&lt;section&gt;
+     &lt;h2&gt;Internet(網際網路)&lt;/h2&gt;
+     &lt;p&gt;是指20世紀末興起電腦網路與電腦網路之間所串成的龐大網路系統&lt;/p&gt;&lt;p&gt;這些網路以一些標準的網路協定相連&lt;/p&gt;
+     &lt;p&gt;它是從地方到全球範圍內幾百萬個私人、學術界、企業和政府的網路所構成，透過電子，無線和光纖網路技術等一系列廣泛技術聯繫在一起&lt;/p&gt;
+     &lt;/section&gt;
+     
+     
+     
+     </t>
+<t tx="leo.20210422180518.1">&lt;section&gt;
+     &lt;p&gt;固態硬碟(SSD)&lt;/p&gt;
+     &lt;p&gt;是一種以積體電路製作的電腦儲存裝置&lt;/p&gt;
+     &lt;p&gt;可以用非揮發性記憶體（主要以快閃記憶體中的 NAND Flash））作為永久性儲存裝置，也可以用揮發性記憶體（例如DRAM）作為臨時性儲存裝置&lt;/p&gt;
+     &lt;p&gt;目前由於每單位價格及最大儲存容量與機械硬碟有差距，固態硬碟暫時無法完全取代機械式硬碟&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210422182521.1">&lt;section&gt;
+     &lt;p&gt;網際網路的起源&lt;/p&gt;
+     &lt;p&gt;1960年代美國聯邦政府委託進行研究，目的是建立容錯與電腦網路的通信&lt;/p&gt;
+     &lt;p&gt;網際網路的前身ARPANET最初在1980年代作為區域學術和軍事網路連接的骨幹&lt;/p&gt;
+     &lt;p&gt;1980年代，NSFNET成為新的骨幹而得到資助，以及其他商業化擴展得到了私人資助，導致了全世界網路技術的發展，以及許多網路的合併&lt;/p&gt;
+     &lt;p&gt;到1990年代初，商業網路和企業之間的連接標誌著向現代網際網路的過渡&lt;/p&gt;
+     &lt;/section&gt;</t>
+<t tx="leo.20210422183949.1">&lt;section&gt;
+     &lt;h2&gt;網際網路承載範圍廣泛的資訊資源和服務&lt;/h2&gt;
+     &lt;p&gt;超文字&lt;/p&gt;
+     &lt;p&gt;全球資訊網&lt;/p&gt;
+     &lt;p&gt;電子郵件&lt;/p&gt;
+     &lt;p&gt;通話&lt;/p&gt;
+     &lt;p&gt;檔案分享&lt;/p&gt;
+     &lt;/section&gt;</t>
+<t tx="leo.20210422184825.1">&lt;section&gt;
+     &lt;p&gt;超文字(Hy pertext)&lt;/p&gt;
+     &lt;p&gt;是一種可以顯示在電腦顯示器或電子裝置上的文字&lt;/p&gt;
+     &lt;/section&gt;</t>
+<t tx="leo.20210422185037.1">&lt;section&gt;
+     &lt;p&gt;全球資訊網(WWW)&lt;/p&gt;
+     &lt;p&gt;是一個透過網際網路存取的且由許多互相連結的超文字組成的系統&lt;/p&gt;
+     &lt;/section&gt;</t>
+<t tx="leo.20210422185048.1">&lt;section&gt;
+     &lt;p&gt;電子郵件(e-mail)&lt;/p&gt;
+     &lt;p&gt;是指一種由一寄件人將數位資訊傳送給一個人或多個人的資訊交換方式，一般會通過網際網路或其他電腦網路進行書寫、傳送和接收信件，目的是達成發信人和收信人之間的資訊互動&lt;/p&gt;
+     &lt;/section&gt;</t>
+<t tx="leo.20210422185217.1">&lt;section&gt;
+     &lt;p&gt;基於IP的語音傳輸(VoIP)&lt;/p&gt;
+     &lt;p&gt;是一種語音通話技術，經由網際協定（IP）來達成語音通話與多媒體會議，也就是經由網際網路來進行通訊&lt;/p&gt;
+     &lt;/section&gt;</t>
+<t tx="leo.20210422185226.1">&lt;section&gt;
+     &lt;p&gt;檔案分享(File sharing)&lt;/p&gt;
+     &lt;p&gt;是指主動地在網路上(網際網路或小的區域網路)分享自己的電腦檔案&lt;/p&gt;
+     &lt;/section&gt;</t>
+<t tx="leo.20210422192338.1">
+&lt;section&gt;
+     @others
+&lt;/section&gt;  </t>
+<t tx="leo.20210422192501.1">
+&lt;section&gt;
+     &lt;h2&gt;作業系統(OS)&lt;/h2&gt;
+     &lt;p&gt;是一組主管並控制電腦操作、運用和執行硬體、軟體資源和提供公共服務來組織使用者互動的相互關聯的系統軟體程式，同時也是電腦系統的核心與基石&lt;/p&gt;
+     &lt;p&gt;作業系統需要處理如管理與組態記憶體、決定系統資源供需的優先次序、控制輸入與輸出裝置、操作網路與管理檔案系統等基本事務&lt;/p&gt;
+     &lt;/section&gt;  </t>
+<t tx="leo.20210422193435.1">&lt;section&gt;
+     &lt;h2&gt;作業系統的型態&lt;/h2&gt;
+     &lt;p&gt;不同機器安裝的作業系統可從簡單到複雜，可從行動電話的嵌入式系統到超級電腦的大型作業系統&lt;/p&gt;
+     &lt;p&gt;有些作業系統整合了圖形化使用者介面，而有些僅使用命令行介面，而將圖形化使用者介面視為一種非必要的應用程式&lt;/p&gt;
+     &lt;/section&gt;  </t>
 </tnodes>
 </leo_file>
