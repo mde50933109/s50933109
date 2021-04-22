@@ -342,7 +342,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20210422170738.1">&lt;section&gt;
      &lt;h2&gt;Graphics Processing Unit(圖形處理器)&lt;/h2&gt;
-     &lt;p&gt;是一種專門在個人電腦、工作站、遊戲機和一些行動裝置（如平板電腦、智慧型手機等）上執行繪圖運算工作的微處理器。&lt;/p&gt;
+     &lt;p&gt;是一種專門在個人電腦、工作站、遊戲機和一些行動裝置（如平板電腦、智慧型手機等）上執行繪圖運算工作的微處理器&lt;/p&gt;
      
      
 
