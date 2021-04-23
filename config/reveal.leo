@@ -277,6 +277,13 @@ vertical: body pane on the botton</t>
     &lt;p&gt;
     是電腦的主要裝置之一，功能主要是解釋電腦指令以及處理電腦軟體中的資料。電腦的可程式化性主要是指對中央處理器的編程。
     &lt;/p&gt;
+        &lt;a href="https://ark.intel.com/content/www/tw/zh/ark/products/series/186673/9th-generation-intel-core-i9-processors.html"&gt;
+        &lt;img src="https://i1.wp.com/img.4gamers.com.tw/ckfinder/files/Elvis/News/20181008-Intel/Intel-9th-Gen-Core-1.jpg?resize=627%2C418&amp;ssl=1" alt="reveal.js logo" style="height: 350px; margin: 0 auto 4rem auto; background: transparent;" class="title-logo"&gt;&lt;/a&gt;
+    
+    
+    
+    
+    
 &lt;/section&gt;</t>
 <t tx="leo.20210421145617.1">&lt;section&gt;
       &lt;img src="https://image3.slideserve.com/5735605/slide2-l.jpg" alt="reveal.js logo" style="height: 350px; margin: 1 auto4rem auto; background: transparent;" class="demo-logo"&gt;
@@ -334,6 +341,8 @@ vertical: body pane on the botton</t>
 <t tx="leo.20210422165510.1">&lt;section&gt;
     &lt;h2&gt;Motherboard(主機板)&lt;/h2&gt;
     &lt;p&gt;是構成複雜電子系統例如電子計算機的中心或者主電路板。&lt;/p&gt;
+    &lt;a href="https://wcmj2021g2.blogspot.com/"&gt;
+        &lt;img src="https://d.ecimg.tw/items/DSAJ3EA900AN9W6/000001_1588822517.jpg" alt="reveal.js logo" style="height: 350px; margin: 0 auto 4rem auto; background: transparent;" class="title-logo"&gt;&lt;/a&gt;
     
 &lt;/section&gt;
 
@@ -349,6 +358,8 @@ vertical: body pane on the botton</t>
 <t tx="leo.20210422170010.1">&lt;section&gt;
      &lt;h2&gt;Video card(顯示卡)&lt;/h2&gt;
      &lt;p&gt;是個人電腦最基本組成部分之一，用途是將電腦系統所需要的顯示資訊進行轉換驅動電腦，並提供逐行或隔行掃描訊號，控制電腦的正確顯示，是連接顯示器和個人電腦主機板的重要元件，是「人機對話」的重要裝置之一&lt;/p&gt;
+     &lt;a href="https://wcmj2021g2.blogspot.com/"&gt;
+        &lt;img src="https://cdn2.techbang.com/system/excerpt_images/80959/original/ad7111377e91059748ed5658bd6bf390.jpg?1598988172" alt="reveal.js logo" style="height: 250px; margin: 0 auto 4rem auto; background: transparent;" class="title-logo"&gt;&lt;/a&gt;
 
 
 
@@ -356,6 +367,8 @@ vertical: body pane on the botton</t>
 <t tx="leo.20210422170738.1">&lt;section&gt;
      &lt;h2&gt;Graphics Processing Unit(圖形處理器)&lt;/h2&gt;
      &lt;p&gt;是一種專門在個人電腦、工作站、遊戲機和一些行動裝置（如平板電腦、智慧型手機等）上執行繪圖運算工作的微處理器&lt;/p&gt;
+     &lt;a href="https://wcmj2021g2.blogspot.com/"&gt;
+        &lt;img src="https://sw.cool3c.com/user/93262/2018/39cf28c2-ee90-4de5-ad0a-0da00abdb0ec.jpg?fit=max&amp;w=1400&amp;q=80" alt="reveal.js logo" style="height: 200px; margin: 0 auto 4rem auto; background: transparent;" class="title-logo"&gt;&lt;/a&gt;
      
      
 
@@ -378,11 +391,10 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20210422172811.1">&lt;section&gt; 
     &lt;p&gt;硬碟(HDD)&lt;/p&gt;
-    &lt;p&gt;是電腦上使用堅硬的旋轉碟片為基礎&lt;/p&gt;
-    &lt;p&gt;原理是磁頭經過碟片的上方時碟片本身的磁場導致讀取線圈中電氣訊號改變&lt;/p&gt;
-    &lt;p&gt;硬碟的讀寫是採用半隨機存取的方式，可以以任意順序讀取硬碟中的資料，但讀取不同位置的資料速度不相同&lt;/p&gt;
-    &lt;p&gt;硬碟包括一至數片高速轉動的碟片以及放在致動器懸臂上的磁頭&lt;/p&gt;
-&lt;/p&gt;
+    &lt;p&gt;是電腦上使用堅硬的旋轉碟片為基礎
+    &lt;p&gt;硬碟的讀寫是採用半隨機存取的方式，可以以任意順序讀取硬碟中的資料，但讀取不同位置的資料速度不相同。硬碟包括一至數片高速轉動的碟片以及放在致動器懸臂上的磁頭&lt;/p&gt;
+      &lt;a href="https://wcmj2021g2.blogspot.com/"&gt;
+        &lt;img src="https://www.crucial.tw/content/dam/crucial/articles/about-ssd/ssd-vs-hdd-which-is-better-for-you/hard-drive.jpg.transform/large-jpg/img.jpg" alt="reveal.js logo" style="height: 350px; margin: 0 auto 4rem auto; background: transparent;" class="title-logo"&gt;&lt;/a&gt;
     &lt;/section&gt;</t>
 <t tx="leo.20210422174519.1">&lt;section&gt; 
      &lt;h3&gt;Secondary Memory(二級記憶體)&lt;/h3&gt;
