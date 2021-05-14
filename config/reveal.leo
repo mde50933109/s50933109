@@ -287,10 +287,10 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20210421145617.1">&lt;section&gt;
       &lt;img src="https://image3.slideserve.com/5735605/slide2-l.jpg" alt="reveal.js logo" style="height: 350px; margin: 1 auto4rem auto; background: transparent;" class="demo-logo"&gt;
-      &lt;/p&gt;CPU由三個主要部分組成：
-     &lt;/p&gt; Arithmetic logic unit(算術邏輯單元)
-      &lt;/p&gt;Control Unit(控制單元)
-      &lt;/p&gt;Registers(暫存器)
+      CPU由三個主要部分組成：&lt;/span&gt;
+     &lt;/p&gt; &lt;span style="display: inline-block;" class="fragment fade-down"&gt;Arithmetic logic unit(算術邏輯單元)&lt;/span&gt;
+      &lt;/p&gt;&lt;span style="display: inline-block;" class="fragment fade-down"&gt;Control Unit(控制單元)&lt;/span&gt;
+      &lt;/p&gt;&lt;span style="display: inline-block;" class="fragment fade-down"&gt;Registers(暫存器)&lt;/span&gt;
 &lt;/section&gt;
       
       
